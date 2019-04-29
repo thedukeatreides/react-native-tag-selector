@@ -1,6 +1,6 @@
 {
   "name": "react-native-tag-selector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple React Native tag selector control with folding",
   "main": "index.js",
   "scripts": {
