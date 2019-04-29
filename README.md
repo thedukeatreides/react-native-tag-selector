@@ -4,7 +4,7 @@
 # react-native-tag-selector
 Simple React Native tag selector control with folding of overwflowed tags
 
-![screenshot_1](https://github.com/thedukeatreides/react-native-tag-selector/master/assets/demo.gif)
+![screenshot_1](https://raw.github.com/thedukeatreides/react-native-tag-selector/master/assets/demo.gif)
 
 ## Installation
 ```bash
