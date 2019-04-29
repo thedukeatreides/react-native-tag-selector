@@ -1,0 +1,28 @@
+{
+  "name": "react-native-tag-selector",
+  "version": "0.0.1",
+  "description": "Simple React Native tag selector control with folding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedukeatreides/react-native-tag-selector.git"
+  },
+  "keywords": [
+    "react-native",
+    "select",
+    "tag",
+    "react"
+  ],
+  "author": "Yuri Shaposhnik",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native": "^0.59.5"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
