@@ -19,8 +19,7 @@
   "author": "Yuri Shaposhnik",
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.7.2",
-    "react-native": "^0.59.5"
+    "prop-types": "^15.7.2"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.53.1"
